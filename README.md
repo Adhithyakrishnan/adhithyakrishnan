@@ -33,9 +33,8 @@
 ---
 
 ### ✨ Fun Facts
-- ⚔️ Former President of the **Fencing Club**
+- ⚔️ Former President of the **Fencing Club** at LPU
 - ⚽ Love playing **football** and **cricket** with friends
-- 🧘 Into **meditation** and building better sleep through mindfulness
 - 🏋️‍♂️ Working on a muscle-building & recovery-based diet and workout routine
 
 ---
