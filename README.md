@@ -31,6 +31,16 @@
 📌 Check them all on my [Portfolio Website »](https://adhithyakrishnanmp-portfolio-website.vercel.app/)
 
 ---
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdalrashid&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhdalrashid&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
+</p>
+
+---
 
 ### ✨ Fun Facts
 - ⚔️ Former President of the **Fencing Club** at LPU
