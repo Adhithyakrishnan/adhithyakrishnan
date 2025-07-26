@@ -30,16 +30,8 @@
 <!-- 🛠 Tech Stack (Fixed Layout) -->
 <h3 align="center">🛠 Tech Stack (Data Analysis & BI Focus)</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python,r,sql,git,azure,vscode,github" height="40"/>
-
-  <!-- Badge Icons -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,git,azure,vscode,github,mysql,excel,powerbi,tableau" />
 </p>
 
 
