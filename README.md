@@ -27,13 +27,11 @@
 
 ---
 
-<!-- 🛠 Tech Stack (Fixed Layout) -->
-<h3 align="center">🛠 Tech Stack (Data Analysis & BI Focus)</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,git,azure,vscode,github,mysql,excel,powerbi,tableau" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,azure,vscode,github,mysql,scala" />
 </p>
-
 
 ---
 
